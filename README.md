@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, Soy Darío Neila García</h1>
 <h3 align="center">💻 Soy un proyecto de programador muy apasionado por la tecnología y el desarrollo constante. Siempre buscando aprender algo nuevo</h3>
 
----
 ### 📜 Sobre mí:
 - Mejorando día a día mis capacidades como programador.
 - Completé el programa de Full Stack Developer de [4Geeks](https://4geeks.com)
