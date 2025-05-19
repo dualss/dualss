@@ -22,9 +22,6 @@
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![image](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-## 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dualss&show_icons=true&locale=en&layout=compact" alt="dualss" /></p>
-
 ## 📫 ¿Quieres ponerte en contacto conmigo?
 
 <a href="https://www.linkedin.com/in/dar%C3%ADo-neila-garc%C3%ADa/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dario neila garcia" height="30" /></a>
